@@ -1,3 +1,7 @@
+## What is this ?
+This is a project that show an how to deal with input of user and then count and remove by react
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
